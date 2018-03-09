@@ -1,0 +1,30 @@
+/* add your CSS here */
+body{
+  box-sizing: border-box;
+}
+img{
+  width: 300px;
+}
+span{
+  font-weight: bold;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.italic{
+  font-style: italic;
+}
+.center{
+  width: 300px;
+  margin: auto;
+  border: 1px solid #dbccdb;
+  padding: 0 10px 10px;
+  box-shadow: 10px 10px 5px 0px rgba(247,244,247,1);
+}
+.info{
+  border: 1px solid #dbccdb;
+  margin-top: 10px;
+  padding: 0px 8px 0px;
+}
